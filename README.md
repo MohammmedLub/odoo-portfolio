@@ -1,17 +1,12 @@
-# 🚀 Odoo Functional Consultant Portfolio
+# 🚀 Odoo Consultant Portfolio
 
-> **Complete Business Support Analyst & Functional Consultant Showcase**  
+> **Showcase**  
 > Demonstrating expertise in Odoo ERP implementation, configuration, troubleshooting, and support
 
 ![Odoo Version](https://img.shields.io/badge/Odoo-17.0-purple)
 ![Status](https://img.shields.io/badge/Status-Portfolio%20Ready-green)
-
 ---
-
 ## 👤 About This Portfolio
-
-This repository showcases my expertise as an **Odoo Functional Consultant** and **Business Support Analyst**. It contains:
-
 - ✅ Complete end-to-end business process documentation
 - ✅ Real-world support ticket scenarios with resolutions
 - ✅ Multi-channel implementation case studies
@@ -64,9 +59,7 @@ This repository showcases my expertise as an **Odoo Functional Consultant** and 
 | Configuration | CRM, Sales, eCommerce, Accounting modules |
 | Troubleshooting | Root cause analysis and ticket resolution |
 | Documentation | User guides and knowledge base articles |
-
 ---
-
 ## 📁 Project Showcases
 
 ### 1. [eCommerce Implementation](./projects/01-ecommerce-implementation/)
@@ -77,10 +70,8 @@ This repository showcases my expertise as an **Odoo Functional Consultant** and 
 ### 2. [CRM Pipeline Optimization](./projects/02-crm-pipeline/)
 - Lead scoring
 - Stage automation
-- Forecast reporting
-
+- Forecast reportin
 ---
-
 ## 🎫 Support Tickets
 
 | Ticket | Issue | Status |
@@ -92,17 +83,13 @@ This repository showcases my expertise as an **Odoo Functional Consultant** and 
 | [SALES-002](./tickets/SALES-002.md) | VAT incorrect for EU customer | ✅ |
 | [SALES-003](./tickets/SALES-003.md) | Discount column invisible | ✅ |
 | [PRICING-001](./tickets/PRICING-001.md) | Complex pricing case study | ✅ |
-
 ---
-
 ## 📚 Documentation
 
 - [Lead to Cash Workflow](./docs/workflows/lead-to-cash.md)
 - [Troubleshooting Checklist](./docs/troubleshooting/checklist.md)
 - [Import Templates](./data/import-templates/)
-
 ---
-
 ## 🏗 Repository Structure
 
 ```
@@ -123,13 +110,4 @@ odoo-portfolio/
 └── data/
     └── import-templates/
 ```
-
----
-
-## 📞 Contact
-
-**Available for Interview**
-
----
-
 *Last Updated: January 2026*
