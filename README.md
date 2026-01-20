@@ -2,9 +2,6 @@
 
 > **Showcase**  
 > Demonstrating expertise in Odoo ERP implementation, configuration, troubleshooting, and support
-
-![Odoo Version](https://img.shields.io/badge/Odoo-17.0-purple)
-![Status](https://img.shields.io/badge/Status-Portfolio%20Ready-green)
 ---
 ## 👤 About This Portfolio
 - ✅ Complete end-to-end business process documentation
